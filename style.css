@@ -1,0 +1,61 @@
+.head{
+      
+    background-color:aqua;
+    border:solid;
+     }
+  
+  
+  .grid {
+    background-color:black;
+    display: flex;
+    justify-content:baseline;
+    
+  }
+  
+  .camel {
+    border: 1px solid black;
+    width: 200px;
+    height: 490px;
+    background-color:orange;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    width: 200px;
+    height: 490px;
+    background-color:orange;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    width: 200px;
+    height: 415px;
+    background-color:orange;
+  }
+
+  .teddybear {
+    border: 1px solid black;
+    width: 200px;
+    height: 525px;
+    background-color:orange;
+  }
+
+   .panda {
+    border: 1px solid black;
+    width: 200px;
+    height: 450px;
+    background-color:orange;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    width: 200px;
+    height: 575px;
+    background-color:orange;
+  }
+  
+ 
+  
+  
+  
